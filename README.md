@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heshteo
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on logic ideas
 - 📫 How to reach me email: hesh.teo@gmail.com
 
 <!---
