@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heshteo
+- 👋 Hi, I’m T Y C O O N 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on logic ideas
