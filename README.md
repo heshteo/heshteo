@@ -1,7 +1,7 @@
 - 👋 Hi, I’m T Y C O O N 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on logic ideas
+- 💞️ I’m looking to collaborate on logic ideas and big project ideas
 - 📫 How to reach me email: hesh.teo@gmail.com
 
 <!---
